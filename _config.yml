@@ -7,13 +7,13 @@ permalink:        pretty
 
 # Setup
 title:            cuevano.ca
-tagline:          'by Jorge Aranda'
+tagline:          '~ Jorge Aranda'
 description:      'Jorge Aranda&#039;s personal website'
 url:              http://cuevano.ca
 
 author:
-  name:           'Mark Otto'
-  url:            https://twitter.com/mdo
+  name:           'Jorge Aranda '
+  url:            https://cuevano.ca
 
 paginate:         5
 

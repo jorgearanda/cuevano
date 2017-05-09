@@ -6,10 +6,11 @@ author: Jorge Aranda
 layout: page
 guid: http://cuevano.ca/?page_id=118
 ---
-Here is [my résumé](/wp-content/uploads/2016/08/Jorge-Aranda-Resume.pdf).
-[Contact me](/about) if you would like a copy of my CV.
+Here is [my résumé](/wp-content/uploads/2016/08/Jorge-Aranda-Resume.pdf),
+and my list of publications:
 
-  * J. Aranda, D. Damian, and A. Borici (2012) [Transition to model-driven engineering: What is revolutionary, what remains the same?](/publications/models2012-mdd/) _MODELS 2012_,  Innsbruck, Austria, 2012.
+  * S. Liaskos, R. Jalman, and J. Aranda (2012) [On Eliciting Contribution Measures in Goal Models] (http://www.yorku.ca/liaskos/Docs/RE12AHP.pdf) _RE 2012_, Chicago, USA, 2012.
+  * J. Aranda, D. Damian, and A. Borici (2012) [Transition to model-driven engineering: What is revolutionary, what remains the same?](/pdfs/models2012-mdd.pdf) _MODELS 2012_,  Innsbruck, Austria, 2012.
   * A. Schröter, J. Aranda, D. Damian, and I. Kwan (2012) [To Talk or Not to Talk: Factors that Influence Communication around Changesets](http://dl.acm.org/authorize?6698207). _Proceedings of the 2012 ACM Conference on Computer Supported Cooperative Work (CSCW 2012)_, Seattle, USA, 2012.
   * G. Wilson and J. Aranda (2011) [Empirical Software Engineering](http://www.americanscientist.org/issues/feature/2011/6/empirical-software-engineering). _American Scientist 99(6)_, 2011.
   * S. Munro, S. Liaskos, and J. Aranda (2011) [The mysteries of goal decomposition](http://catenary.files.wordpress.com/2011/10/eye11.pdf). _5th International i* Workshop (iStar&#8217;11)_, at the 19th International Requirements Engineering Conference (RE&#8217;11), Trento, Italy, 2011.

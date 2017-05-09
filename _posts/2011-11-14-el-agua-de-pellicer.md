@@ -26,7 +26,7 @@ Villoro informa que el verso es de [Pellicer](http://es.wikipedia.org/wiki/Carlo
 
 El Agua, de Carlos Pellicer
 
-&nbsp;
+&#160;
 
 Aguas horizontales
 

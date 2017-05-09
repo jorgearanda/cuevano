@@ -46,9 +46,7 @@ This at the moment involves protesting, researching, writing materials to advoca
 
 Time spent yelling on my pillow on Twitter or Facebook does not count.
 
-* * *
-
-&nbsp;
+&#160;
 
 I am fully aware that 2.5% of my income and two hours per week is a small commitment.
 
