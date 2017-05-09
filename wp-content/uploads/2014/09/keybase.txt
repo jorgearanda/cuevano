@@ -1,0 +1,66 @@
+==================================================================
+https://keybase.io/jorgearanda
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://cuevano.ca
+  * I am jorgearanda (https://keybase.io/jorgearanda) on keybase.
+  * I have a public key with fingerprint E83C D413 85FC 5273 B454  BE41 46D3 3B1B EA83 03B9
+
+To claim this, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "fingerprint": "e83cd41385fc5273b454be4146d33b1bea8303b9",
+            "host": "keybase.io",
+            "key_id": "46d33b1bea8303b9",
+            "uid": "ab4644477269e0c1a60e9978b5b40800",
+            "username": "jorgearanda"
+        },
+        "service": {
+            "hostname": "cuevano.ca",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1412049473,
+    "expire_in": 157680000,
+    "prev": "66af8697e384a7ba5f8bbcb4e01fd99de48dc0482c9e88483dbb3f46b448f19a",
+    "seqno": 3,
+    "tag": "signature"
+}
+
+with the aforementioned key, yielding the PGP signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v1.0.5
+Comment: https://keybase.io/crypto
+
+yMHlAnicbZFdSBRRFMdXzdAtS7QIXwrGHtKVZWbnztdG0L5kIZaGSZq13DtzZ53U
+mWl2dnVRKS2LjIy0DPwIfCnEsseUjMyiB78iWqOXyn1RwxBZ6UMEbUbsrafLPef3
+///P4bxNS3I4EzLSF/t8ZEdOwsRoPOQoyc311RNIkyKEt56owpuPrKgBbOiGopqE
+l8A8LUqAonlGFhkPRyPAAIQBBViJphGFMORpkkYCkUdUakFbYdkgGMRuRbNq1sev
+SFb1P3xoswERYAEAHOdhBUyKFGRJLAgcjxgESJ4kbTCIDRXWYIu+qBkBDA2oSpBo
+zCOsRlgRsT22nb4FiSEchqrmFqEl1g3N1ESt2qpXmqbutWVmRLe5Woz8Ww5+pKiS
+tbglCGMjqGgq4aUsUjQV25IClIcEAuDoPALX6YqB/YpNMBxrjUiSdgwOW5YsC2We
+FThM8wByCDIyj5CIACYpWRIECQNeEknAe0QB8zzgaQkhWgYsAoCXKcEeOIgvqRrh
+tZJMGLAsg0pAhWbIwETj2GjFNkeC07E9OdE+ncOZmv7voFciKY6B2bKDsX5cdIJK
+bT55aibafYvM1lxtz9+M94HawgxHt44e72mouMlJTfvze81z73fE9rUURL/d+Xj+
+y3wX4/z0zkdV9ydrP1+nXHNNFRdL3XWR5YE/O6s+L3He+yOliQuurx3abXHXallJ
+0eHZ3vJX06vEDV96b7wtIh+bi8UmW+YOHBmf6ew5lHU669lQb0PTmv6rs3+ifShn
+Y/BDObuxkp0/dvTCTLy1ANZPR0uPl7X7M58O/95drQtrj/rWa5aTV1fuPoycGbwe
+18/OZy7dqy15SZZ2JV3d+8K9MDJ1uYOpGu4JFlKtyJX4/UFaVPjxZL25dXJxeyPl
+cc/9BXX4E9M=
+=btJI
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/jorgearanda
+
+==================================================================
+

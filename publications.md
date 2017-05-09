@@ -1,0 +1,31 @@
+---
+id: 118
+title: Publications
+date: 2012-04-10T10:42:42+00:00
+author: Jorge Aranda
+layout: page
+guid: http://cuevano.ca/?page_id=118
+---
+Here is [my résumé](/wp-content/uploads/2016/08/Jorge-Aranda-Resume.pdf).
+[Contact me](/about) if you would like a copy of my CV.
+
+  * J. Aranda, D. Damian, and A. Borici (2012) [Transition to model-driven engineering: What is revolutionary, what remains the same?](/publications/models2012-mdd/) _MODELS 2012_,  Innsbruck, Austria, 2012.
+  * A. Schröter, J. Aranda, D. Damian, and I. Kwan (2012) [To Talk or Not to Talk: Factors that Influence Communication around Changesets](http://dl.acm.org/authorize?6698207). _Proceedings of the 2012 ACM Conference on Computer Supported Cooperative Work (CSCW 2012)_, Seattle, USA, 2012.
+  * G. Wilson and J. Aranda (2011) [Empirical Software Engineering](http://www.americanscientist.org/issues/feature/2011/6/empirical-software-engineering). _American Scientist 99(6)_, 2011.
+  * S. Munro, S. Liaskos, and J. Aranda (2011) [The mysteries of goal decomposition](http://catenary.files.wordpress.com/2011/10/eye11.pdf). _5th International i* Workshop (iStar&#8217;11)_, at the 19th International Requirements Engineering Conference (RE&#8217;11), Trento, Italy, 2011.
+  * J. Aranda (2010) _[A Theory of Shared Understanding for Software Organizations](/pdfs/SharedUnderstanding.pdf). Ph.D. Thesis, University of Toronto.
+  * J. Aranda (2010) [Playing to the strengths of small organizations](http://catenary.files.wordpress.com/2010/09/smallstrengths.pdf). _1st Workshop on Requirements Engineering in Small Companies (RESC2010)_, at the 16th International Working Conference on Requirements Engineering: Foundation for Software Quality (REFSQ&#8217;10), Essen, Germany, 2010.
+  * J. Aranda (2010) A Communal Workshop, or Doors that Close? In _Making Software,_ O&#8217;Reilly, 2010.
+  * J. Pipitone, J. Aranda, and V. Cortes (2010) [Aim for the eagle: Making the best use of our software research skills to fight climate change](http://catenary.files.wordpress.com/2010/09/eagle.pdf). _2nd Workshop on Software Research and Climate Change (WSRCC2010)_, at the 32nd International Conference on Software Engineering (ICSE&#8217;10), Cape Town, South Africa, 2010.
+  * J. Aranda and G. Venolia (2009) [The Secret Life of Bugs: Going Past the Errors and Omissions in Software Repositories](http://catenary.files.wordpress.com/2010/09/secret.pdf). _Proceedings of the 31st International Conference on Software Engineering (ICSE&#8217;09)_, Vancouver, Canada, May 2009.
+  * J. Lung, J. Aranda, S. M. Easterbrook, and G. Wilson (2008) [On the Difficulty of Replicating Human Subjects Studies in Software Engineering](http://catenary.files.wordpress.com/2010/09/p191-lung.pdf). _Proceedings of the 30th International Conference on Software Engineering (ICSE&#8217;08)_, Leipzig, Germany, May 2008.
+  * J. Aranda, S. M. Easterbrook, and G. Wilson (2008) [Observations on Conway&#8217;s Law in Scientific Computing](http://catenary.files.wordpress.com/2010/09/aranda08-stc-final.pdf). _1st Workshop on Socio-Technical Congruence (STC)_, at the 30th International Conference on Software Engineering (ICSE&#8217;08), Leipzig, Germany, 10 May 2008.
+  * M. Strohmaier, J. Horkoff, E. Yu, J. Aranda, and S. M. Easterbrook (2008) [Can Patterns Improve i* Modeling? Two Exploratory Studies](http://catenary.files.wordpress.com/2010/09/fulltext2.pdf). _Proceedings of the International Working Conference on Requirements Engineering: Foundation for Software Quality (REFSQ&#8217;08)_, Montpellier, France, 16-17 June 2008.
+  * J. Aranda, R. Khuwaja, and S. M. Easterbrook (2007) [Discovering the Shared Understanding Dynamics of Large Software Teams](http://catenary.files.wordpress.com/2010/09/sharedunderstanding-cascon2007.pdf). _CASCON 2007_, Toronto, Canada, October 2007.
+  * J. Aranda, S. M. Easterbrook, and G. Wilson (2007) [Requirements in the wild: How small companies do it](http://catenary.files.wordpress.com/2010/09/reinthewild-re07.pdf). To appear in the _Proceedings of the 15th IEEE International Requirements Engineering Conference (RE&#8217;07)_, Delhi, India, October 2007. **_Most Innovative Paper of RE&#8217;07 Award._**
+  * J. Aranda, N. Ernst, J. Horkoff, and S. M. Easterbrook (2007) [A Framework for Empirical Evaluation of Model Comprehensibility](http://catenary.files.wordpress.com/2010/09/aranda-mise2007.pdf). _International Workshop on Modeling in Software Engineering (MiSE-07)_, at the 29th International Conference on Software Engineering (ICSE&#8217;07), Minneapolis, USA, 19-20 May 2007.
+  * M. Strohmaier, E. Yu, J. Horkoff, J. Aranda, and S. M. Easterbrook (2007) [Analyzing Knowledge Transfer Effectiveness &#8211; An Agent-Oriented Approach](http://catenary.files.wordpress.com/2010/09/2007_hicss_knowledge-transfer.pdf). In _Proceedings of the 40th Hawaii International Conference on System Sciences (HICSS-40 2007)_, January 3-9, IEEE Computer Society, Hawaii, USA, 2007.
+  * J. Aranda and S. M. Easterbrook (2006) [Distributed Cognition in Software Engineering Research: Can it be made to work?](http://catenary.files.wordpress.com/2010/09/ssslssd-arandaeasterbrook-2006.pdf) _First workshop on Supporting the Social Side of Large Scale Software Development (SSSLSSD)_, Banff, Alberta, Nov 4, 2006.
+  * J. Aranda and S. M. Easterbrook (2005) [Anchoring and Adjustment in Software Estimation](http://catenary.files.wordpress.com/2010/09/anchoringadjustment.pdf). _European Software Engineering Conference / ACM SIGSOFT Symposium on the Foundations of Software Engineering (ESEC/FSE&#8217;05)_, Lisbon, Portugal, Sept 5-9, 2005.
+  * S. M. Easterbrook, E. Yu, J. Aranda, Y. Fan, J. Horkoff, M. Leica, and R. A. Qadir (2005) [Do Viewpoints Lead to Better Conceptual Models? An Exploratory Case Study](http://catenary.files.wordpress.com/2010/09/easterbrook-re05.pdf), _13th IEEE International Requirements Engineering Conference (RE&#8217;05)_, Paris, France, Aug 29 &#8211; Sep 2, 2005.
+  * J. Aranda (2005) _[Anchoring and Adjustment in Software Estimation](http://catenary.files.wordpress.com/2010/09/mscthesis-jorgearanda.pdf)_. M.Sc. Thesis, University of Toronto.
