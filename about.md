@@ -28,7 +28,7 @@ I admire both Epicureans and Stoics,
 though on balance I think the Epicureans have it right,
 and I would like to follow on their footsteps.
 I live in Victoria, Canada,
-with my partner [Val](http://valcortes.wordpress.com/), our kids, Aurora and Xavi, and our cat, Mushi.
+with my partner [Val](http://valcortes.wordpress.com/), our kids, and our cat.
 
 You can reach me at jorge.aranda (AT) cuevano.ca.
 Here is [my résumé](/wp-content/uploads/2016/08/Jorge-Aranda-Resume.pdf).
