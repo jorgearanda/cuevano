@@ -6,7 +6,7 @@ author: Jorge Aranda
 layout: page
 guid: http://yorchopolis.wordpress.com/?page_id=2
 ---
-[<img title="Jorge" src="/images/Jorge.jpg" alt="" width="320" height="213" />](/images/Jorge.jpg)
+[<img title="Jorge" src="/images/Jorge.jpg"/>](/images/Jorge.jpg)
 I am Jorge Aranda, and this site is for my personal posts and texts.
 
 I am a Lead Scientist and Software Developer
