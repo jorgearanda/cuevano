@@ -9,7 +9,8 @@ permalink:        pretty
 title:            Cuevano
 tagline:          '~ Jorge Aranda'
 description:      'Jorge Aranda&#039;s personal website'
-url:              http://cuevano.ca
+url:              https://cuevano.ca
+blogname:         https://cuevano.ca
 
 author:
   name:           'Jorge Aranda '
