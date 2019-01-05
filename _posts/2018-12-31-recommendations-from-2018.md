@@ -268,7 +268,7 @@ Maybe you'd like to try it?
 I hope 2019 goes wonderfully for you. Happy New Year!
 
 (Previously:
-[2017](https://cuevano.ca/2017/12/recommendations-from-2017/),
+[2017](https://cuevano.ca/2017/12/31/recommendations-from-2017/),
 [2016](https://cuevano.ca/2016/12/recommendations-from-2016/),
 [2015](https://cuevano.ca/2015/12/recommendations-from-2015/),
 [2014](https://cuevano.ca/2014/12/recommendations-from-2014/),
