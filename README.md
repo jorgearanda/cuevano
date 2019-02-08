@@ -8,10 +8,10 @@ It is built with [Jekyll](http://jekyllrb.com), using [Lanyon](http://lanyon.get
 ## Requirements
 
 ```
-sudo gem install bundler jekyll jekyll-paginate redcarpet s3_website
+bundle install
 ```
 
-`s3_website` will also require having a JDK installed, version 8 or *lower*.
+One of the gems, `s3_website`, will also require having a JDK installed, version 8 or *lower*.
 
 
 ## To build and serve:
