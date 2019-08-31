@@ -7,17 +7,16 @@ layout: page
 guid: http://yorchopolis.wordpress.com/?page_id=2
 ---
 [<img title="Jorge" src="/images/Jorge.jpg"/>](/images/Jorge.jpg)
-I am Jorge Aranda, and this site is for my personal posts and texts.
+I am Jorge Aranda, and this site is my personal blog.
 
 I am a Senior Software Development Engineer at [Workday](https://www.workday.com/).
 I have been developing software full time since 2012.
+
 Before this latest incarnation I was an academic,
 studying coordination and communication in software organizations,
 first at the University of Toronto, where I did [my PhD](/pdfs/SharedUnderstanding.pdf),
 and later at the University of Victoria, where I was a postdoctoral researcher.
-I also made relatively brief stops at Microsoft Research and IBM along the way.
-Before *that* life,
-I was a freelance software development consultant in Mexico.
+
 You can find more details about my career in [my résumé](/wp-content/uploads/2016/08/Jorge-Aranda-Resume.pdf).
 
 I am originally Mexican, and a naturalized Canadian.
