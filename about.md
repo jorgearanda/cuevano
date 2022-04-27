@@ -9,7 +9,7 @@ guid: http://yorchopolis.wordpress.com/?page_id=2
 [<img title="Jorge" src="/images/Jorge.jpg"/>](/images/Jorge.jpg)
 I am Jorge Aranda, and this site is my personal blog.
 
-I am a Senior Software Development Engineer at [Workday](https://www.workday.com/).
+I am a Principal Software Development Engineer at [Workday](https://www.workday.com/).
 I have been developing software full time since 2012.
 
 Before this latest incarnation I was an academic,
