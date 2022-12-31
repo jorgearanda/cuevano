@@ -32,9 +32,9 @@ with my partner [Val](http://valcortes.wordpress.com/), our kids, and a lot of c
 You can reach me at jorge.aranda (AT) cuevano.ca.
 You can also find me at these other sites:
 
-  * [It Will Never Work in Theory](http://neverworkintheory.org/), a curated blog of software engineering research relevant to practitioners *(on hiatus)*
-  * [Github](http://github.com/jorgearanda)
+  * [Mastodon](https://hachyderm.io/@jorgearanda)
   * [Twitter](http://twitter.com/yorchopolis)
-  * [Facebook](http://www.facebook.com/yorchopolis) (but I only add people I know)
   * [LinkedIn](http://ca.linkedin.com/in/yorchopolis)
+  * [Github](http://github.com/jorgearanda)
   * [Catenary](http://catenary.wordpress.com/), my old research-focused blog, now inactive
+  * [It Will Never Work in Theory](http://neverworkintheory.org/), a curated blog of software engineering research relevant to practitioners that I co-founded, now maintained by [Greg Wilson](https://third-bit.com/)
