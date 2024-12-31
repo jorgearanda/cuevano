@@ -53,7 +53,7 @@ On the Switch, I also enjoyed playing [Chants of Sennaar](https://en.wikipedia.o
 
 I had no idea that Nick Cave, the musician, had such an expansive, loving soul. In his website, [The Red Hand Files](https://www.theredhandfiles.com), he takes on questions from random strangers, and gives back compassionate, wise, heartfelt answers. I read them carefully whenever a new one pops up.
 
-One podcast recommendation (other than the aforementioned *Backlisted*): the epic takedowns of airport bestsellers that is [If Books Could Kill](https://www.ifbookspod.com), with Michael Hobbs and Peter Shamshiri. Smart, funny, and good at pointing out just what is off about the usual suspects hogging the mike all the time.
+One podcast recommendation (other than the aforementioned *Backlisted*): the epic takedowns of airport bestsellers that is [If Books Could Kill](https://www.ifbookspod.com), with Michael Hobbes and Peter Shamshiri. Smart, funny, and good at pointing out just what is off about the usual suspects hogging the mike all the time.
 
 I have been trying to wean myself off of Google this year. I feel like I’ve had enough of it, and the less I give them the better we’ll be. I’m still checking alternatives to their mail and calendar applications, but I found it easy to get off their maps and browsers. Search is crucial, and for that the key for me was learning about [Kagi](https://kagi.com). I switched to it and I haven’t looked back. The search results are great, and there are no ads. The price seems fair for not being the product myself.
 
