@@ -66,7 +66,8 @@ The [Beryl AX Router](https://www.gl-inet.com/products/gl-mt3000/) was a nice di
 
 We’re so lucky in this town! Four Victoria pleasures to wrap up: in the morning, expertly baked croissants from [Goodside Pastry House](https://goodsidepastryhouse.ca); for lunch, cute and delicious boxes from [Yua Bistro](https://www.yuabistro.com); for dinner, pizza, arcades, and 80s nerdy vibes at [Pinhalla](https://pinhalla.com), and to close, two scoops from [Parachute Ice Cream](https://www.parachuteicecream.com)—my favourite is the Oatmeal Chocolate Chip Cookie, but I’ve enjoyed them all.
 
----
+<hr></hr>
+
 I’ve just realized I’ve been doing these recommendations series for fifteen years now! People sometimes tell me they enjoy them, and that they discovered something great through them. If that’s you, thank you for reaching out! It means a lot, and keeps me wanting to come back a year later. While I always have hopes of resurrecting this blog for other purposes (there’s always next year), this has been the one constant all this time.
 
 Do reach out if you have recommendations for me as well. Happy New Year!
